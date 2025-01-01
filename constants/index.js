@@ -7,7 +7,7 @@ import testAutomation from "../src/assets/projects/testAutomation.jpg"
 
 export const HERO_CONTENT = `As a software engineer, I thrive on turning complex challenges into innovative solutions, blending web development expertise with a passion for GenAI and AI Agentic frameworks. My work spans crafting intuitive web platforms, developing backend systems, and researching AI applications in digital forensics. With hands-on experience in React, Spring Boot, Python, and Docker, I bring both technical depth and creative problem-solving to every project. My goal is to create impactful systems that not only solve problems but also redefine possibilities in tech.`;
 
-export const ABOUT_TEXT = `I am a versatile software developer with expertise in full-stack web development, artificial intelligence, and digital forensics. My journey has been shaped by diverse projects, from donation management systems to AI-driven research in enhancing forensic processes. I am skilled in technologies such as React, Spring Boot, PostgreSQL, and Python. Beyond coding, I am passionate about solving real-world problems and continuously exploring emerging technologies.`;
+export const ABOUT_TEXT = `I am a versatile software developer with expertise in full-stack web development, artificial intelligence, and digital forensics. My journey has been shaped by diverse projects, from donation management systems to AI-driven research in enhancing forensic processes. I am skilled in technologies such as React, Spring Boot, PostgreSQL, and Python. Beyond coding, I am passionate about solving real-world problems and continuously exploring emerging technologies.I am an Information Systems undergraduate, currently gaining experience as an undergraduate teaching assistant at UCSC as well. `;
 
 export const EXPERIENCES = [
   {
@@ -35,7 +35,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "ChaRiTABLE: Donation Management System",
+    title: "CharitABLE: Donation Management System",
     image: project1,
     description:
       "A centralized platform designed to simplify the donation process, enabling donors to contribute effortlessly while allowing beneficiaries to request what they need seamlessly. As an added functionality, developed an algorithm to locate the nearest donors within a 5km radius, sending high-priority notifications using the Google Maps API.",
