@@ -33,7 +33,7 @@ const Projects = () => {
                 <p className="mb-4 text-neutral-400">{project.description}</p>
                 <div className="mb-4"><a href={project.githublink} target="_blank" rel="noopener noreferrer"><FaGithub/></a></div> 
                 {project.technologies.map((tech, index)=>(
-                    <span key={index} className=" mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-400">
+                    <span key={index} className=" mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-teal-400">
                         {tech}</span>
                 ))}
                 </motion.div>
